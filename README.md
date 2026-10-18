@@ -1,6 +1,5 @@
 # Continuous-Variable Quantum Error Correction Using Topological GKP Codes
 
-**M.Sc. Thesis | Physics, IIT Madras**
 
 ## Overview
 
